@@ -121,6 +121,7 @@ docker-compose run --rm usaspending-manage python3 -u manage.py matview_runner \
 ## method2: run PostgreSQL locally with DBBeaver
 ## https://files.usaspending.gov/database_download/usaspending-db-setup.pdf
 
+
 # Elasticsearch Setup
 # --------------------------------------------------------------------------------------
 ## Some of the API endpoints reach into Elasticsearch for data.
